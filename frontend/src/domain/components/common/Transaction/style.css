@@ -1,0 +1,57 @@
+.transaction {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background: #f0f0f0;
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.transaction-info1 p,
+.transaction-info2 p {
+  color: #9c9bb3;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.transaction-info2-recipient1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.transaction-info2-recipient1 h4,
+.info-to,
+.grid-item-value {
+  font-weight: 400;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.transaction-info3 p {
+  background-color: #dbdbdc;
+  padding: 0.5rem 1rem;
+  border-radius: 7px;
+  margin-top: 2.5rem;
+}
+
+.transaction-info2-recipient1 span {
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.transaction-info2-recipient2 span {
+  color: #342f96;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.transaction-info2-recipient2 {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}

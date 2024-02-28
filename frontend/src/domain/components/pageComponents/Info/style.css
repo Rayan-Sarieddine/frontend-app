@@ -1,0 +1,13 @@
+.info-link {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+}
+
+.info h2 {
+  font-size: 2rem;
+  text-align: center;
+}

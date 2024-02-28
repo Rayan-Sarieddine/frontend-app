@@ -1,0 +1,13 @@
+.info-show {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.5rem;
+  margin-top: 5rem;
+}
+
+@media (max-width: 404px) {
+  .info-show {
+    flex-direction: column;
+  }
+}

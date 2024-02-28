@@ -1,0 +1,49 @@
+.hero-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 4rem;
+  z-index: 100000;
+  background-color: #fff;
+  position: relative;
+  min-width: 100%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.nav-logo img {
+  height: 6rem;
+  cursor: pointer;
+}
+
+.nav-auth {
+  display: flex;
+  gap: 1rem;
+  margin-right: 1rem;
+}
+.nav-auth .btn:hover {
+  opacity: 0.9;
+}
+.nav-auth .connect {
+  outline: none;
+  border: 2px solid black;
+  padding: 1.2rem 3rem;
+  cursor: pointer;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 1.4rem;
+  background-color: rgb(245, 236, 236);
+}
+.nav-auth .connect:hover {
+  background-color: var(--primary);
+  color: white;
+  border: 2px solid transparent;
+  transition: 0.2s;
+}
+.nav-auth .get-wallet {
+  padding: 1.2rem 3rem;
+}
+.nav-auth .get-wallet:hover {
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  transition: 0.2s;
+}

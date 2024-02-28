@@ -1,0 +1,19 @@
+.info h2 {
+  font-size: 2rem;
+  font-weight: 500;
+
+  margin-bottom: 2rem;
+}
+.info-link {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+.info-link p {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
