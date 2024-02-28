@@ -21,8 +21,8 @@ This project includes a number of key features and technologies:
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps:
+To get a local copy up and running:
 
-1. Clone the repository:
+ Clone the repository:
 ```bash
 git clone https://github.com/Rayan-Sarieddine/frontend-app
