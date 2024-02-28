@@ -1,4 +1,4 @@
-# Frontend demo
+# Frontend App
 
 This project is a comprehensive React application, showcasing a variety of modern web development techniques and libraries. It is designed to demonstrate best practices in React development, including state management, API interactions, and more.
 
@@ -25,4 +25,4 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Rayan-Sarieddine/frontend-app/
+git clone https://github.com/Rayan-Sarieddine/frontend-app
